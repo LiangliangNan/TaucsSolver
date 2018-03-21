@@ -1,9 +1,8 @@
 **TaucsSolver** is a wrapper class for [TAUCS](http://www.tau.ac.il/~stoledo/taucs/), a powerfull linear system solver. 
-See [here](http://www.tau.ac.il/~stoledo/taucs/) for the license and the availability note.
+See [here](http://www.tau.ac.il/~stoledo/taucs/) for the license and the availability note of TAUCS.
 
-The taucs_addon.h file is modified from SOMECODE (I forget where it comes from. Please remind me if you know).
+The taucs_addon.h file is modified from some code. I forget where it comes from. Please remind me if you know.
 
----
 
 ### Available functions
  * bool solve_symmetry();
@@ -12,7 +11,6 @@ The taucs_addon.h file is modified from SOMECODE (I forget where it comes from. 
  
 Note: Corresponding APIs are also included for solving a bunch of rhs for the same coefficient matrix.
 
----
 
 ### How to use ? 
 Quite easy! See the examples in "example/test.cpp" :-)
