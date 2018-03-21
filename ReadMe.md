@@ -17,7 +17,7 @@ Quite easy! See the examples in "example/test.cpp" :-)
 
 ---
 
-Please feel free to contact me if any question or comment.
+Please feel free to contact me if you have any question or comment.
 
 Liangliang Nan
 
